@@ -2,9 +2,9 @@
 
 首先需要下载安装`git`与`obsidian`
 
-[git官方网站](https://git-scm.com/install/windows)
+[git官网下载](https://git-scm.com/install/windows)
 
-[Obsidian官方网站](https://obsidian.md/download)
+[Obsidian官网下载](https://obsidian.md/download)
 
 一路默认即可
 

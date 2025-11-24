@@ -92,7 +92,7 @@ id_ed25519.pub
 下一步打开并登录[github网站](https://github.com/explore),在用户设置中找到`SSH and GPG keys`项,在`SSH keys`板块中点击`New SSH key`添加新的SSH key,种类选择`Authentication Key`,在下方`key`一栏中粘贴刚刚复制的内容,并在上方`title`添加好注释,确认无误后点击`Add SSH key`完成云端配置.
 
 ---
-# 克隆远程仓库与初始化
+# 创建远程仓库,克隆远程仓库与初始化
 
 回到github网站的用户主界面,找到创建好的私人仓库,点击醒目的绿色的`<> Code`键,选择`SSH`并复制
 
@@ -110,7 +110,7 @@ git@github.com:"你的用户名"/"你的仓库名".git
 
 `C:\Users\"你的用户名"\Documents\OBsidianFile`
 
-然后打开该文件夹的命令提示符(小黑窗)后,==输入以下两命令中的一个==(请看完):
+然后打开该路径下的cmd([不知道怎么打开的点击这里](cmd简要介绍.md)),==输入以下两命令中的一个==(请看完):
 
 ```
 git clone git@github.com:"你的用户名"/"你的仓库名".git
@@ -118,7 +118,7 @@ git clone git@github.com:"你的用户名"/"你的仓库名".git
 
 该命令的效果是在你选择的本地文件夹中创建一个新的文件夹作为仓库
 
-或者:
+==或者:==
 
 ```
 git clone git@github.com:"你的用户名"/"你的仓库名".git .
@@ -187,7 +187,9 @@ git的下方其他各种设置随意
 ![](assets/README/file-20251124100849360.png)
 
 1. 可以向云端同步本地的更新
+
 2. 可以从云端下载更新
+
 或者也可以完全不管,在设定的时间(本教程上方推荐设置为`2`的那个值)到了之后会自动同步
 
 

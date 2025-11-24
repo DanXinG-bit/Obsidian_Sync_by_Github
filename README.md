@@ -89,7 +89,7 @@ id_ed25519.pub
 
 其中请用记事本打开`id_ed25519.pub`文件,然后将内容全部复制下来
 
-下一步打开并登录[github网站](https://github.com/explore),在用户设置中找到`SSH and GPG keys`项,在`SSH keys`板块中点击`New SSH key`添加新的SSH key,种类选择`Authentication Key`,在下方`key`一栏中粘贴刚刚复制的内容,并在上方`title`添加好注释,确认无误后点击`Add SSH key`完成云端配置
+下一步打开并登录[github网站](https://github.com/explore),在用户设置中找到`SSH and GPG keys`项,在`SSH keys`板块中点击`New SSH key`添加新的SSH key,种类选择`Authentication Key`,在下方`key`一栏中粘贴刚刚复制的内容,并在上方`title`添加好注释,确认无误后点击`Add SSH key`完成云端配置.
 
 ---
 # 克隆远程仓库与初始化

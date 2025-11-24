@@ -128,7 +128,7 @@ git clone git@github.com:"你的用户名"/"你的仓库名".git .
 
 执行完成后即可在本地用obsidian打开该目录:
 
-![](assets/总结一下如何将github作为Obsidian的云服务器/file-20251124093304187.png)
+![](assets/README/file-20251124093304187.png)
 > [!danger] 注意
 > 选择文件夹请认准仓库的位置
 > 如果用的是上方第一个命令,请选择自动新建的那个文件夹
@@ -136,7 +136,7 @@ git clone git@github.com:"你的用户名"/"你的仓库名".git .
 
 第一次用Obsidian打开后,在文件资源管理器中查看会是这样的:
 
-![](assets/总结一下如何将github作为Obsidian的云服务器/file-20251124101720649.png)
+![](assets/README/file-20251124101720649.png)
 
 在此文件夹中,先创建一个文本文档,添加内容:
 
@@ -147,7 +147,7 @@ git clone git@github.com:"你的用户名"/"你的仓库名".git .
 
 然后保存关闭并将其改名为`.gitignore`,如下图:
 
-![](assets/总结一下如何将github作为Obsidian的云服务器/file-20251124102029475.png)
+![](assets/README/file-20251124102029475.png)
 
 到此本地克隆与初始化完成
 
@@ -174,17 +174,17 @@ git的下方其他各种设置随意
 然后同样的方法,下载插件`Custom Attachment Location`
 
 并调整成如图:
-![](assets/总结一下如何将github作为Obsidian的云服务器/file-20251124093304186.png)
+![](assets/README/file-20251124093304186.png)
 
 完成全部配置
 
 在编辑文档的时候左侧会出现一个分支控制按钮:
 
-![](assets/总结一下如何将github作为Obsidian的云服务器/file-20251124100758775.png)
+![](assets/README/file-20251124100758775.png)
 
 打开会在右侧出现控制栏:
 
-![](assets/总结一下如何将github作为Obsidian的云服务器/file-20251124100849360.png)
+![](assets/README/file-20251124100849360.png)
 
 1. 可以向云端同步本地的更新
 2. 可以从云端下载更新
@@ -195,3 +195,5 @@ git的下方其他各种设置随意
 > 不建议==多端同时编辑一个文件==,会出现需要处理冲突的情况
 
 到此教程结束,愉快的进行`md`文档编辑吧🥳🥳
+
+觉得实用请赏个星吧✨

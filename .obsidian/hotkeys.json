@@ -1,0 +1,18 @@
+{
+  "webviewer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F5"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
 
 `cmd`指的是`Windows`系统的命令提示符,可以通过按住`win`键并点击`R`键并输入cmd并按下`enter`来打开↓↓↓
 
-![](assets/cmd简要介绍/file-20251124154335377.png)
+![](assets/cmd简要介绍/file-20251211095614303.png)
 
 或者同样可以按下`win`然后输入`cmd`来打开↓↓↓
 
-![](assets/cmd简要介绍/file-20251124154426724.png)
+![](assets/cmd简要介绍/file-20251211095614302.png)
 
 
 # 如何打开某一路径下的cmd
@@ -21,15 +21,15 @@
 
 需要用户先在Windows文件资源管理器打开该路径(这里演示的目录是`D:\test`):
 
-![](assets/cmd简要介绍/file-20251124154918092.png)
+![](assets/cmd简要介绍/file-20251211095614289.png)
 
 然后点击此处并输入`cmd`然后按下`enter`↓↓↓
 
-![](assets/cmd简要介绍/file-20251124154859015.png)
+![](assets/cmd简要介绍/file-20251211095614300.png)
 
 会出现cmd窗口:
 
-![](assets/cmd简要介绍/file-20251124155315647.png)
+![](assets/cmd简要介绍/file-20251211095614275.png)
 
 显示出:
 
